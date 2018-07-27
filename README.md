@@ -1,6 +1,6 @@
 Arameki
 ---
-A simple game made with reasonml and [reprocessing](https://github.com/schmavery/reprocessing#projects-using-reprocessing).. Compiles to nativecode | bytecode | web :) => profit.
+A simple game made with reasonml and [reprocessing](https://github.com/schmavery/reprocessing#projects-using-reprocessing). Compiles to nativecode | bytecode | web :) => profit.
 
 ## How to
 ```
