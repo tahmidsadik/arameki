@@ -1,14 +1,6 @@
 Reprocessing Example
 ---
-
-Clone this repo to get started with [Reprocessing](https://github.com/schmavery/reprocessing).
-
-Demos are on other branches:
-
-- [Flappy Bird](https://github.com/bsansouci/reprocessing-example/tree/livestream-flappybird)
-- [2048](https://github.com/bsansouci/reprocessing-example/tree/2048)
-
-...and more on the [Reprocessing repo](https://github.com/schmavery/reprocessing#projects-using-reprocessing).
+A simple game made with reasonml and reprocessing ([Reprocessing repo])(https://github.com/schmavery/reprocessing#projects-using-reprocessing).. Compiles to nativecode | bytecode | web :D => profit.
 
 ## How to
 ```
